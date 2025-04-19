@@ -1,7 +1,0 @@
-Flask
-Flask-SocketIO
-requests
-ollama
-openai
-googletrans
-geopy
