@@ -1,0 +1,93 @@
+{
+    "current_mission": {
+        "target_country": "",
+        "message_to_decrypt": "",
+        "lat_long": ""
+    },
+    "tasks": {
+        "task_1": {
+            "description": "Identify the target country.",
+            "status": "not_started"
+        },
+        "task_2": {
+            "description": "Decrypt the message.",
+            "status": "not_started"
+        },
+        "task_3": {
+            "description": "Translate the decrypted message into English.",
+            "status": "not_started"
+        }
+    },
+    "countries_list": [
+      {
+        "country": "France",
+        "latitude": 46.2276,
+        "longitude": 2.2137,
+        "language": "French",
+        "translation": "Sauvez le Président"
+      },
+      {
+        "country": "Spain",
+        "latitude": 40.4637,
+        "longitude": -3.7492,
+        "language": "Spanish",
+        "translation": "Salven al Presidente"
+      },
+      {
+        "country": "Germany",
+        "latitude": 51.1657,
+        "longitude": 10.4515,
+        "language": "German",
+        "translation": "Rettet den Präsidenten"
+      },
+      {
+        "country": "Italy",
+        "latitude": 41.8719,
+        "longitude": 12.5674,
+        "language": "Italian",
+        "translation": "Salvate il Presidente"
+      },
+      {
+        "country": "Russia",
+        "latitude": 61.5240,
+        "longitude": 105.3188,
+        "language": "Russian",
+        "translation": "Спасите Президента"
+      },
+      {
+        "country": "China",
+        "latitude": 35.8617,
+        "longitude": 104.1954,
+        "language": "Mandarin Chinese",
+        "translation": "拯救总统"
+      },
+      {
+        "country": "Brazil",
+        "latitude": -14.2350,
+        "longitude": -51.9253,
+        "language": "Portuguese",
+        "translation": "Salvem o Presidente"
+      },
+      {
+        "country": "Japan",
+        "latitude": 36.2048,
+        "longitude": 138.2529,
+        "language": "Japanese",
+        "translation": "大統領を救って"
+      },
+      {
+        "country": "South Korea",
+        "latitude": 35.9078,
+        "longitude": 127.7669,
+        "language": "Korean",
+        "translation": "대통령을 구하라"
+      },
+      {
+        "country": "Saudi Arabia",
+        "latitude": 23.8859,
+        "longitude": 45.0792,
+        "language": "Arabic",
+        "translation": "أنقذ الرئيس"
+      }
+    ]
+}
