@@ -37,3 +37,18 @@ Secrete-Agent/
 │   └── llm/                  # LLM interaction logic
 │       ├── llm_interface.py  # Manages communication with the LLM
 ```
+
+### Create a VM
+
+python -m venv venv
+source venv/bin/activate # On Windows: venv\Scripts\activate
+
+### Install Dependencies
+
+pip install -r requirements.txt
+
+### Run Flask App
+
+python app.py
+
+### Open your browser and navigate to http://127.0.0.1:5000 to start the game.
